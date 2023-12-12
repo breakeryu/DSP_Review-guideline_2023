@@ -304,7 +304,7 @@ FFT里面重要的，就是CZT。
 
 
 
-![image-20231205205308165](C:/Users/iccad/AppData/Roaming/Typora/typora-user-images/image-20231205205308165.png)
+![image-20231205205308165](图片/image-20231205205308165.png)
 
 ![image-20231205205352793](图片/1423856-20231205205335237-680961804.png)
 
